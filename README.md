@@ -16,6 +16,8 @@ A sleek web app built with **LangChain** and **Next.js** that helps you generate
 * **Customizable Output**: Fully editable blog posts with humanized tone and structure.
 * **Efficient Workflow**: Paste topics, click "Generate", and watch AI craft your article.
 * **Ready-to-Extend**: Easily add features like image embedding, SEO tags, or publishing hooks.
+---
+![image](https://github.com/user-attachments/assets/e03b48c4-c445-4857-8522-a7e3954b23d0)
 
 ---
 
