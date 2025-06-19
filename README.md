@@ -4,6 +4,9 @@ A sleek web app built with **LangChain** and **Next.js** that helps you generate
 
 [🌐 Live Demo](https://cool-write-ai.vercel.app/) • [📗 GitHub Repo](https://github.com/debanganghosh08/CoolWriteAI.git)
 
+![image](https://github.com/user-attachments/assets/d8c13cce-f0cf-4451-95df-686ab096d261)
+
+
 ---
 
 ## ✨ Features
